@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi World I`am Ramdani 👋
+
+![anime gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2twN2Rtbjd4YXRma24wbzdjcmgwMWF6ZnJxY2FjMWFteHM5OW5pZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/okWCAjMp0pInC/giphy.gif)
 
 <!--
 **ramdani-dev06/ramdani-dev06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **SPX Express**
